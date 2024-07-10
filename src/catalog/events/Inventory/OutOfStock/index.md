@@ -6,10 +6,6 @@ summary: |
   Indicates inventory is out of stock
 owners:
     - dboyne
-    - msmith
-    - asmith
-    - full-stack
-    - mobile-devs
 badges:
     - content: Recently updated!
       backgroundColor: green

@@ -6,10 +6,6 @@ summary: |
   Indicates a change in inventory level
 owners:
     - dboyne
-    - msmith
-    - asmith
-    - full-stack
-    - mobile-devs
 badges:
     - content: Recently updated!
       backgroundColor: green

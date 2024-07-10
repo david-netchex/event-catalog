@@ -4,7 +4,6 @@ name: Full stackers
 summmary: Full stack developers based in London, UK
 members:
     - dboyne
-    - asmith
     - msmith
 email: test@test.com
 slackDirectMessageUrl: https://yourteam.slack.com/channels/boyney123
