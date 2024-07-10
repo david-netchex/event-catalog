@@ -2,7 +2,7 @@ export default {
   title: 'EventCatalog',
   trailingSlash: false,
   tagline: 'Discover, Explore and Document your Event Driven Architectures',
-  organizationName: 'Your Company',
+  organizationName: 'Netchex',
   homepageLink: 'https://eventcatalog.dev/',
   editUrl: 'https://github.com/boyney123/eventcatalog-demo/edit/master',
   logo: {
